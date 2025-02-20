@@ -80,7 +80,7 @@ var config_data = `
       "maxSize": 250
     },
     { "name": "How do they prevent tipping?",
-      "code": "co",
+      "code": "tip",
       "type": "text",
       "size": 20,
       "maxSize": 250
@@ -92,7 +92,7 @@ var config_data = `
       "maxSize": 250
     },
     { "name": "What is an ideal alliance?",
-      "code": "co",
+      "code": "all",
       "type": "text",
       "size": 20,
       "maxSize": 250
