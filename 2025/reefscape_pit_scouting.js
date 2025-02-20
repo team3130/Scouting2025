@@ -92,7 +92,7 @@ var config_data = `
       "maxSize": 250
     },
     { "name": "What is an ideal alliance?",
-      "code": "all",
+      "code": "alli",
       "type": "text",
       "size": 20,
       "maxSize": 250
