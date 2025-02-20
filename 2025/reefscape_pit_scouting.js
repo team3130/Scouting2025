@@ -80,7 +80,7 @@ var config_data = `
       "maxSize": 250
     },
     { "name": "How do they prevent tipping?",
-      "code": "tip",
+      "code": "tippy",
       "type": "text",
       "size": 20,
       "maxSize": 250

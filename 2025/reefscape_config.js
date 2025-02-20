@@ -67,7 +67,7 @@ var config_data = `
   ],
   "auton": [
     { "name": "Leave Starting Line",
-      "code": "al",
+      "code": "lin",
       "type": "bool"
     },
     { "name": "Coral L1",
@@ -263,7 +263,7 @@ var config_data = `
     },
     { "name": "Make good<br>alliance partner?",
       "tooltip": "Would you want this robot on your alliance in eliminations?",
-      "code": "all",
+      "code": "al",
       "type": "bool"
     },
     { "name": "Comments",
