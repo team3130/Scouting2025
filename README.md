@@ -3,7 +3,8 @@
 # Scouting 2025
 
 Match Scouting: https://team3130.github.io/Scouting2025/
-\nPit Scouting: https://team3130.github.io/Scouting2025/pit.html
+
+Pit Scouting: https://team3130.github.io/Scouting2025/pit.html
 
 #### A scouting system for FIRST FRC competitions developed by [PWNAGE - Team #2451](https://pwnagerobotics.org).
 
