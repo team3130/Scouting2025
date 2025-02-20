@@ -79,8 +79,20 @@ var config_data = `
       "size": 20,
       "maxSize": 250
     },
+    { "name": "How do they prevent tipping?",
+      "code": "co",
+      "type": "text",
+      "size": 20,
+      "maxSize": 250
+    },
     { "name": "Scouting Method /<br>Program (ScoutingPASS?)",
       "code": "sct",
+      "type": "text",
+      "size": 20,
+      "maxSize": 250
+    },
+    { "name": "What is an ideal alliance?",
+      "code": "co",
       "type": "text",
       "size": 20,
       "maxSize": 250
