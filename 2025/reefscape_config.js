@@ -160,7 +160,7 @@ var config_data = `
       "code": "tcs2",
       "type": "counter"
     },
-    { "name": "Net Score",
+    { "name": "Balls in Net",
       "code": "tns",
       "type": "counter"
     },
@@ -233,7 +233,7 @@ var config_data = `
       },
       "defaultValue": "x"
     },
-    { "name": "Driver's Response to Defense?",
+    { "name": "Driver's Response to Defense",
       "code": "rdr",
       "type": "radio",
       "choices": {
