@@ -233,6 +233,18 @@ var config_data = `
       },
       "defaultValue": "x"
     },
+    { "name": "Driver's Response to Defense?",
+      "code": "rdr",
+      "type": "radio",
+      "choices": {
+        "b": "Below Average<br>",
+        "a": "Average<br>",
+        "g": "Good<br>",
+        "e": "Excellent<br>",
+        "x": "Did not expirience defense"
+      },
+      "defaultValue": "x"
+    },
     { "name": "Speed Rating",
       "code": "sr",
       "type": "radio",
