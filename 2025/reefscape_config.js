@@ -119,7 +119,7 @@ var config_data = `
       "type": "counter"
     },
     { "name": "Barge Score",
-      "code": "ans",
+      "code": "bscore",
       "type": "counter"
     }
   ],
@@ -164,8 +164,8 @@ var config_data = `
       "code": "tcs2",
       "type": "counter"
     },
-    { "name": "Barge Score",
-      "code": "bscore",
+    { "name": "Balls in Net",
+      "code": "tns",
       "type": "counter"
     },
     { "name": "Pickup From",
