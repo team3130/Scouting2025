@@ -189,7 +189,7 @@ var config_data = `
       "code": "ebt",
       "type": "timer"
     },
-    { "name": "Did they climb?",
+    { "name": "Did they climb",
       "code": "isclimb",
       "type": "bool"
     },
