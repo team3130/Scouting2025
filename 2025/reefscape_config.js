@@ -201,9 +201,9 @@ var config_data = `
       },
       "defaultValue": "x"
     },
-    { "name": "Did They Climb?",
+    { "name": "Did they climb?",
       "code": "climb",
-      "type" "bool"
+      "type": "bool"
     }
   ],
   "postmatch": [
