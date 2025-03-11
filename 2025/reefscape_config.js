@@ -200,6 +200,10 @@ var config_data = `
         "x": "Not attempted"
       },
       "defaultValue": "x"
+    },
+    { "name": "Did they climb?",
+      "code": "climb",
+      "type": "bool"
     }
   ],
   "postmatch": [
