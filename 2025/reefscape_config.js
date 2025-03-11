@@ -202,7 +202,7 @@ var config_data = `
       "defaultValue": "x"
     },
     { "name": "Did they climb?",
-      "code": "climb",
+      "code": "isclimb",
       "type": "bool"
     }
   ],
