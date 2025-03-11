@@ -189,6 +189,10 @@ var config_data = `
       "code": "ebt",
       "type": "timer"
     },
+    { "name": "Did they climb?",
+      "code": "isclimb",
+      "type": "bool"
+    },
     { "name": "Final Robot Status",
       "code": "efs",
       "type":"radio",
@@ -200,10 +204,6 @@ var config_data = `
         "x": "Not attempted"
       },
       "defaultValue": "x"
-    },
-    { "name": "Did they climb?",
-      "code": "isclimb",
-      "type": "bool"
     }
   ],
   "postmatch": [
