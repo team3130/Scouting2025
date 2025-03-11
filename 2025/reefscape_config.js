@@ -200,11 +200,11 @@ var config_data = `
         "x": "Not attempted"
       },
       "defaultValue": "x"
-    }
+    },
     { "name": "Did They Climb?",
       "code": "climb",
       "type" "bool"
-    },
+    }
   ],
   "postmatch": [
     { "name": "Attained Coopertition Pt",
