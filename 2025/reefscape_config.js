@@ -114,7 +114,11 @@ var config_data = `
       "code": "aps",
       "type": "counter"
     },
-    { "name": "Net Score",
+    { "name": "Processor Missed",
+      "code": "apsm",
+      "type": "counter"
+    },
+    { "name": "Barge Score",
       "code": "ans",
       "type": "counter"
     }
@@ -160,8 +164,8 @@ var config_data = `
       "code": "tcs2",
       "type": "counter"
     },
-    { "name": "Balls in Net",
-      "code": "tns",
+    { "name": "Barge Score",
+      "code": "bscore",
       "type": "counter"
     },
     { "name": "Pickup From",
@@ -197,6 +201,10 @@ var config_data = `
       },
       "defaultValue": "x"
     }
+    { "name": "Did They Climb?",
+      "code": "climb",
+      "type" "bool"
+    },
   ],
   "postmatch": [
     { "name": "Attained Coopertition Pt",
