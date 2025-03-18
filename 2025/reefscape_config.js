@@ -182,13 +182,13 @@ var config_data = `
     { "name": "Scored in<br>Opponent<br>Processor",
       "code": "opp",
       "type": "bool"
-    }
-  ],
-  "endgame": [
+    },
     { "name": "Barge Timer",
       "code": "ebt",
       "type": "timer"
-    },
+    }
+  ],
+  "endgame": [
     { "name": "Final Robot Status",
       "code": "efs",
       "type":"radio",
@@ -290,7 +290,7 @@ var config_data = `
       "code": "co",
       "type": "text",
       "size": 15,
-      "maxSize": 55
+      "maxSize": 150
     }
   ]
 }`;
