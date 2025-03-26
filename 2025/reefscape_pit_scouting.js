@@ -100,7 +100,7 @@ var config_data = `
     },
     { "name": "Bot function",
       "code": "func",
-        type: "radio",
+      "type": "radio",
       "choices": {
         "a": "Coral<br>",
         "b": "Algae<br>",
