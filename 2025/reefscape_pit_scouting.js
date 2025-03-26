@@ -104,7 +104,7 @@ var config_data = `
       "choices": {
         "a": "Coral<br>",
         "b": "Algae<br>",
-        "c": "Defense<br>",
+        "c": "Defense<br>"
     },
     { "name": "Comments",
       "code": "co",
