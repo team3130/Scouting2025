@@ -98,6 +98,14 @@ var config_data = `
       "size": 20,
       "maxSize": 250
     },
+    { "name": "Bot function",
+      "code": "func",
+        type: "radio",
+      "choices": {
+        "a": "Coral<br>",
+        "b": "Algae<br>",
+        "c": "Defense<br>",
+    },
     { "name": "Comments",
       "code": "co",
       "type": "text",
