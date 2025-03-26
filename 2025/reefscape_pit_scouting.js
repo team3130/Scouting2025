@@ -105,6 +105,7 @@ var config_data = `
         "a": "Coral<br>",
         "b": "Algae<br>",
         "c": "Defense<br>"
+      }
     },
     { "name": "Comments",
       "code": "co",
