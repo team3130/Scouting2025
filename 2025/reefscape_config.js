@@ -239,7 +239,7 @@ var config_data = `
         "4": "4<br>",
         "5": "5 (good)"
       },
-      "defaultValue": "x"
+      "defaultValue": "3"
     },
     { "name": "Driver's Response to Defense",
       "code": "rdr",
@@ -251,7 +251,7 @@ var config_data = `
         "4": "4<br>",
         "5": "5 (good)"
       },
-      "defaultValue": "x"
+      "defaultValue": "3"
     },
     { "name": "Speed Rating",
       "code": "sr",
