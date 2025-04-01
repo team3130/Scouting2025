@@ -245,11 +245,11 @@ var config_data = `
       "code": "rdr",
       "type": "radio",
       "choices": {
-        "1": "1 (poor)<br>",
+        "1": "1<br>",
         "2": "2<br>",
         "3": "3<br>",
         "4": "4<br>",
-        "5": "5 (good)"
+        "5": "5"
       },
       "defaultValue": "3"
     },
@@ -257,11 +257,11 @@ var config_data = `
       "code": "sr",
       "type": "radio",
       "choices": {
-        "1": "1 (slow)<br>",
+        "1": "1<br>",
         "2": "2<br>",
         "3": "3<br>",
         "4": "4<br>",
-        "5": "5 (fast)"
+        "5": "5"
       },
       "defaultValue":"3"
     },
