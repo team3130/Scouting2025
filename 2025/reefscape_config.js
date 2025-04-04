@@ -168,6 +168,10 @@ var config_data = `
       "code": "tns",
       "type": "counter"
     },
+    { "name": "Barge Missed",
+      "code": "bm",
+      "type": "counter"
+    },
     { "name": "Pickup From",
       "code": "tpu",
       "type": "radio",
