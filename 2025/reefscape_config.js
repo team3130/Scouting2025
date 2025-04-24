@@ -22,9 +22,8 @@ var config_data = `
       "code": "l",
       "type": "level",
       "choices": {
-        "qm": "Quals<br>",
-        "sf": "Semifinals<br>",
-        "f": "Finals"
+        "pr": "Practice<br>",
+        "qm": "Quals<br>"
       },
       "defaultValue": "qm",
       "required": "true"
@@ -102,14 +101,15 @@ var config_data = `
       "code": "ac4b",
       "type": "counter"
     },
-    { "name": "Auto Scoring Position",
-      "code": "asp",
-      "type": "clickable_image",
-      "filename": "2025/reef.png",
-      "dimensions": "6 6",
-      "allowableResponses": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 17 18 19 20 23 24 25 26 27 28 29 30 31 32 33 34 35 36",
-      "shape": "circle 5 black red true"
-    },
+    { "name": "Pickup From",
+      "code": "tpu",
+      "type": "radio",
+      "choices": {
+        "s": "Barge Side<br>",
+        "f": "Middle<br>",
+        "b": "Processor Side",
+      },
+    }
     { "name": "Processor Score",
       "code": "aps",
       "type": "counter"
@@ -164,7 +164,7 @@ var config_data = `
       "code": "tcs2",
       "type": "counter"
     },
-    { "name": "Balls in Net",
+    { "name": "Barge Score",
       "code": "tns",
       "type": "counter"
     },
@@ -249,11 +249,11 @@ var config_data = `
       "code": "rdr",
       "type": "radio",
       "choices": {
-        "1": "1<br>",
+        "1": "1 (poor)<br>",
         "2": "2<br>",
         "3": "3<br>",
         "4": "4<br>",
-        "5": "5"
+        "5": "5 (good)"
       },
       "defaultValue": "3"
     },
@@ -261,11 +261,11 @@ var config_data = `
       "code": "sr",
       "type": "radio",
       "choices": {
-        "1": "1<br>",
+        "1": "1 (slow)<br>",
         "2": "2<br>",
         "3": "3<br>",
         "4": "4<br>",
-        "5": "5"
+        "5": "5 (fast)"
       },
       "defaultValue":"3"
     },
