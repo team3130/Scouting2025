@@ -122,6 +122,10 @@ var config_data = `
       "code": "bscore",
       "type": "counter"
     }
+    { "name": "Barge Missed",
+      "code": "bsscore",
+      "type": "counter"
+    }
   ],
   "teleop": [
     { "name": "Coral L1",
