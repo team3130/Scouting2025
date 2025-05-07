@@ -108,8 +108,8 @@ var config_data = `
         "s": "Barge Side<br>",
         "f": "Middle<br>",
         "b": "Processor Side",
-      },
-    }
+      }
+    },
     { "name": "Processor Score",
       "code": "aps",
       "type": "counter"
