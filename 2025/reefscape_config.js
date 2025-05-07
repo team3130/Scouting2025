@@ -121,7 +121,7 @@ var config_data = `
     { "name": "Barge Score",
       "code": "bscore",
       "type": "counter"
-    }
+    },
     { "name": "Barge Missed",
       "code": "bsscore",
       "type": "counter"
