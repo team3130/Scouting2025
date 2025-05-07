@@ -107,7 +107,7 @@ var config_data = `
       "choices": {
         "s": "Barge Side<br>",
         "f": "Middle<br>",
-        "b": "Processor Side",
+        "b": "Processor Side"
       }
     },
     { "name": "Processor Score",
